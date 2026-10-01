@@ -30,7 +30,7 @@ The application allows users to view room details, make reservations, and manage
 
 ## Sample Output
 
-![Hotel Reservation System Output](screenshot/HotelReservationSystem.png)
+![Hotel Reservation System Output](screenshot/hrsoutput.png)
 
 ## Project Structure
 

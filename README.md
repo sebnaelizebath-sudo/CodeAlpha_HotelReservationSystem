@@ -38,9 +38,15 @@ The application allows users to view room details, make reservations, and manage
 CodeAlpha_HotelReservationSystem
 │
 ├── src
-│   └── HotelReservationSystem.java
+│   ├── Customer.java
+│   ├── FileManager.java
+│   ├── Hotel.java
+│   ├── Main.java
+│   ├── Payment.java
+│   ├── Reservation.java
+│   └── Room.java
 │
-├── screenshot
-│   └── HotelReservationSystem.png
+├── screenshots
+│   └── hrsoutput.png
 │
 └── README.md
